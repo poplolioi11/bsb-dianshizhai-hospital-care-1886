@@ -1,0 +1,182 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 3,
+  "changes": [
+    {
+      "image": 2,
+      "side": "left",
+      "column": 3,
+      "kind": "printed-character",
+      "op": "replace",
+      "before": "教",
+      "after": "敎",
+      "reason": "右作攵，左上為相交筆形，下有子；保留敎字。",
+      "source_bbox": [
+        992,
+        540,
+        1045,
+        656
+      ],
+      "offset": 2,
+      "source_image_sha256": "9c411cd503643dc914a2f71f16cb7837fe94274cb6310d8198a0c0d8a0cadc5b",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/708"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": 16,
+      "kind": "printed-character",
+      "op": "replace",
+      "before": "冗",
+      "after": "宂",
+      "reason": "冗位的上方有宀蓋，且是分張的下足，依原字形錄宂。",
+      "source_bbox": [
+        432,
+        550,
+        473,
+        623
+      ],
+      "offset": 2,
+      "source_image_sha256": "9c411cd503643dc914a2f71f16cb7837fe94274cb6310d8198a0c0d8a0cadc5b",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/708"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "kind": "article-title",
+      "op": "replace",
+      "before": "災",
+      "after": "灾",
+      "reason": "原圖題末有完整宀蓋，下為火，原刻用灾。內文另作災，兩形皆照錄。",
+      "source_bbox": [
+        2215,
+        785,
+        2300,
+        880
+      ],
+      "offset": 4,
+      "source_image_sha256": "d1aba5e3ba2b53e7b64d555345a1625ce55b70c97333a1e8c17515638aa4f2a0",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/700"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "right",
+      "column": 11,
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/700",
+      "status": "仍待判字"
+    },
+    {
+      "image": 2,
+      "side": "right",
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/708",
+      "status": "畫款第三字仍待判"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 1,
+      "side": "right",
+      "column": 5,
+      "source_bbox": [
+        1950,
+        820,
+        2018,
+        903
+      ],
+      "offset": 12,
+      "source_image_sha256": "d1aba5e3ba2b53e7b64d555345a1625ce55b70c97333a1e8c17515638aa4f2a0",
+      "text": "日",
+      "candidate": "省讀",
+      "reason": "奇效下可見獨立日字，與下一欄前廚房相接。"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "column": 11,
+      "source_bbox": [
+        1725,
+        594,
+        1787,
+        688
+      ],
+      "offset": 4,
+      "source_image_sha256": "d1aba5e3ba2b53e7b64d555345a1625ce55b70c97333a1e8c17515638aa4f2a0",
+      "text": "□",
+      "candidate": [
+        "領",
+        "劍",
+        "攜",
+        "肩"
+      ],
+      "reason": "負前的左方疊筆、右方直筆難與候選的完整部件對應。"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "column": 12,
+      "source_bbox": [
+        1684,
+        534,
+        1739,
+        606
+      ],
+      "offset": 2,
+      "source_image_sha256": "d1aba5e3ba2b53e7b64d555345a1625ce55b70c97333a1e8c17515638aa4f2a0",
+      "text": "灌",
+      "candidate": "灑",
+      "reason": "水旁右上雙口相疊，下呈隹形，保留灌。"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "column": 15,
+      "source_bbox": [
+        1540,
+        675,
+        1602,
+        771
+      ],
+      "offset": 7,
+      "source_image_sha256": "d1aba5e3ba2b53e7b64d555345a1625ce55b70c97333a1e8c17515638aa4f2a0",
+      "text": "大",
+      "candidate": "六",
+      "reason": "長橫與人形相連，旁見手寫小尖筆。保留大。"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "column": 21,
+      "source_bbox": [
+        1305,
+        523,
+        1359,
+        584
+      ],
+      "offset": 2,
+      "source_image_sha256": "d1aba5e3ba2b53e7b64d555345a1625ce55b70c97333a1e8c17515638aa4f2a0",
+      "text": "刼",
+      "candidate": "劫",
+      "reason": "右旁刀勢上末少量內墨，與一般劫字筆形近，保留初讀異體。"
+    },
+    {
+      "image": 2,
+      "side": "right",
+      "kind": "artist-signature",
+      "text": "馬學□作",
+      "candidates": [
+        "乃",
+        "叨"
+      ],
+      "source_bbox": [
+        2248,
+        2088,
+        2304,
+        2220
+      ],
+      "source_image_sha256": "9c411cd503643dc914a2f71f16cb7837fe94274cb6310d8198a0c0d8a0cadc5b",
+      "reason": "畫款第三字短筆與前後字相連，留一字未定。"
+    }
+  ]
+}

@@ -16,15 +16,15 @@
     "tei_editorial_statement": "逐幅依序錄入兩篇完整圖說，用面、欄及影像區域保存篇題、圖中文字、畫款和印記的來源位置。連讀文本依原欄序串接，未添加標點。",
     "date_evidence": "https://www.hkopenpage.com/pdf/9789888694587.pdf#page=36",
     "record_id": "BSB00075644F708",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "manifest_url": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/manifest",
     "image_provider": "Bayerische Staatsbibliothek",
     "original_publication_year": 1886,
     "original_publication_place": "上海",
     "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "《點石齋畫報》西醫院照護二則（1886 年，巴伐利亞邦立圖書館 bsb00075644，第700、708幅） / Dian shi zhai hua bao [Two Reports on Hospital Care]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -126,7 +126,7 @@
             {
               "type": "article-title",
               "location": "篇題",
-              "text": "醫局成災",
+              "text": "醫局成灾",
               "figure_zone": "f01-r-feature-1",
               "language": "lzh"
             },
@@ -252,17 +252,19 @@
           ]
         }
       ],
-      "printed_article_title": "醫局成災",
+      "printed_article_title": "醫局成灾",
       "issues": [
         {
           "side": "right",
           "column": 11,
           "context": "婦老幼□負",
           "candidates": [
+            "領",
             "劍",
+            "攜",
             "肩"
           ],
-          "note": "負前一字左若僉、右若刂，原圖讀法未定。"
+          "note": "負前一字的左部疊筆、右部直筆仍不能對應確切部件。"
         }
       ]
     },
@@ -364,7 +366,7 @@
               "text": "女"
             },
             {
-              "text": "某教"
+              "text": "某敎"
             },
             {
               "text": "中人亦好善為"
@@ -403,7 +405,7 @@
               "text": "不以"
             },
             {
-              "text": "煩冗為苦殊足多"
+              "text": "煩宂為苦殊足多"
             },
             {
               "text": "矣"
@@ -512,9 +514,10 @@
           "region": "artist-signature",
           "context": "馬學□作",
           "candidates": [
-            "乃"
+            "乃",
+            "叨"
           ],
-          "note": "畫款第三字筆畫連帶，未能確定。"
+          "note": "畫款第三字筆畫相連。候選只作辨識線索。"
         }
       ]
     }

@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -142,7 +142,7 @@
             </ab>
             <ab type="page-feature" subtype="article-title" facs="#f01-r-feature-1">
               <label>篇題</label>
-              <seg type="diplomatic-text" rend="unknown" xml:lang="lzh">醫局成災</seg>
+              <seg type="diplomatic-text" rend="unknown" xml:lang="lzh">醫局成灾</seg>
             </ab>
             <ab type="page-feature" subtype="printer-seal" facs="#f01-r-feature-2">
               <label>文末小印</label>
@@ -175,9 +175,11 @@
             <ab type="layout">正文與篇題排在右半，左半圖內有院門額及畫款。庚集總目另題作「醫院成災」。</ab>
             <ab type="transcription-issue" n="right:11">
               <quote>婦老幼□負</quote>
+              <seg type="candidate">領</seg>
               <seg type="candidate">劍</seg>
+              <seg type="candidate">攜</seg>
               <seg type="candidate">肩</seg>
-              <note type="editorial">負前一字左若僉、右若刂，原圖讀法未定。</note>
+              <note type="editorial">負前一字的左部疊筆、右部直筆仍不能對應確切部件。</note>
             </ab>
           </div>
         </div>
@@ -239,7 +241,7 @@
               <seg type="diplomatic-text">女</seg>
             </ab>
             <ab type="column" n="3" xml:id="f02-l-c03">
-              <seg type="diplomatic-text">某教</seg>
+              <seg type="diplomatic-text">某敎</seg>
             </ab>
             <ab type="column" n="4" xml:id="f02-l-c04">
               <seg type="diplomatic-text">中人亦好善為</seg>
@@ -278,7 +280,7 @@
               <seg type="diplomatic-text">不以</seg>
             </ab>
             <ab type="column" n="16" xml:id="f02-l-c16">
-              <seg type="diplomatic-text">煩冗為苦殊足多</seg>
+              <seg type="diplomatic-text">煩宂為苦殊足多</seg>
             </ab>
             <ab type="column" n="17" xml:id="f02-l-c17">
               <seg type="diplomatic-text">矣</seg>
@@ -301,7 +303,8 @@
             <ab type="transcription-issue" n="right:">
               <quote>馬學□作</quote>
               <seg type="candidate">乃</seg>
-              <note type="editorial">畫款第三字筆畫連帶，未能確定。</note>
+              <seg type="candidate">叨</seg>
+              <note type="editorial">畫款第三字筆畫相連。候選只作辨識線索。</note>
             </ab>
           </div>
         </div>

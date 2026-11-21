@@ -4,11 +4,11 @@
 
 Two reports in the 1886 Dianshizhai Pictorial depict hospital care in the late Qing. Yi ju cheng zai describes the evacuation of patients from Jishi Hospital in Nantai, Fuzhou, during a fire. Xi yi zhi bing depicts a waiting room and a Western woman interpreting for a physician at the Shi yi yuan, described in the report as being in the capital. The reports document how the illustrated press depicted hospital care, patient access and communication across languages.
 
-## V0.1.0
+## V0.2.0
 
-兩篇完整圖說共48欄，附篇題、兩頁刊碼、院門額、畫款與印記定位。TXT 附連讀文字。本版由 AI 輔助初錄，標記少數尚待確讀的字。
+兩篇完整圖說共48欄，附篇題、兩頁刊碼、院門額、畫款與印記定位。TXT 附連讀文字。比對獨立原圖讀法後回圖裁定，採用 3 筆訂正，留存疑讀定位。
 
-The two complete reports contain 48 columns, with their headings, plate and issue numbers, legible inscriptions, artists’ signatures and seal locations. AI-assisted initial transcription with unresolved glyphs marked.
+The two complete reports contain 48 columns, with their headings, plate and issue numbers, legible inscriptions, artists’ signatures and seal locations. An independent image reading was compared with the first transcription. Source-image adjudication adopted 3 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 

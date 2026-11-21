@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '《點石齋畫報》西醫院照護二則（1886 年，巴伐利亞邦立圖書館 bsb00075644，第700、708幅） / Dian shi zhai hua
   bao [Two Reports on Hospital Care]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu
