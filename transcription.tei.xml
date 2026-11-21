@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lzh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>《點石齋畫報》西醫院照護二則</title>
+        <title type="alternate">Dian shi zhai hua bao: Yi ju cheng zai and Xi yi zhi bing</title>
+        <author>《點石齋畫報》編刊者（報導未見可確讀的正文署名）</author>
+        <respStmt>
+          <resp>整理與編碼</resp>
+          <name>曲宸宇 (Chu, Chen-Yu)</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Transcription dataset v0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>München</settlement>
+            <repository>巴伐利亞邦立圖書館（Bayerische Staatsbibliothek）</repository>
+            <collection>點石齋畫報，第 1 函</collection>
+            <idno>L.sin. K 175-1/10</idno>
+            <altIdentifier>
+              <idno>BSB00075644F708</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>《點石齋畫報》庚集刊於 1886 年。〈醫局成災〉記述福州南臺中洲濟世醫院失火時，院方從病房撤出男女老幼。〈西醫治病〉描繪題作「都中施醫院」的診間與候診人群，報導西醫問診時由一名西方女性協助傳譯。兩則可用於晚清醫療史、就醫圖像與醫病溝通研究。</p>
+              <ref target="https://opacplus.bsb-muenchen.de/title/BV040390393">館方書目</ref>
+              <ref target="https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/manifest">館方影像清單</ref>
+            </summary>
+          </msContents>
+          <history>
+            <origin>
+              <p>光緒十二年（1886），庚十及庚十一；原圖未載月日</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>逐幅依序錄入兩篇完整圖說，用面、欄及影像區域保存篇題、圖中文字、畫款和印記的來源位置。連讀文本依原欄序串接，未添加標點。</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/700" xml:id="f01">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v3/bsb00075644_00700/full/2400,/0/default.jpg" />
+      <zone type="article-title" ulx="2180" uly="490" lrx="2280" lry="855" xml:id="f01-r-feature-1" />
+      <zone type="printer-seal" ulx="1258" uly="523" lrx="1310" lry="609" xml:id="f01-r-feature-2" />
+      <zone type="form-mark" ulx="34" uly="1803" lrx="99" lry="1903" xml:id="f01-l-feature-1" />
+      <zone type="form-mark" ulx="34" uly="2078" lrx="99" lry="2208" xml:id="f01-l-feature-2" />
+      <zone type="inscription" ulx="402" uly="898" lrx="669" lry="976" xml:id="f01-l-feature-3" />
+      <zone type="artist-signature" ulx="105" uly="2043" lrx="163" lry="2160" xml:id="f01-l-feature-4" />
+      <zone type="artist-seal" ulx="101" uly="2150" lrx="178" lry="2210" xml:id="f01-l-feature-5" />
+    </surface>
+    <surface n="2" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/708" xml:id="f02">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v3/bsb00075644_00708/full/2400,/0/default.jpg" />
+      <zone type="article-title" ulx="1737" uly="535" lrx="2191" lry="623" xml:id="f02-r-feature-1" />
+      <zone type="inscription" ulx="1600" uly="1048" lrx="1783" lry="1210" xml:id="f02-r-feature-2" />
+      <zone type="artist-signature" ulx="2248" uly="2088" lrx="2304" lry="2220" xml:id="f02-r-feature-3" />
+      <zone type="artist-seal" ulx="2191" uly="2162" lrx="2258" lry="2211" xml:id="f02-r-feature-4" />
+      <zone type="printer-seal" ulx="386" uly="578" lrx="450" lry="640" xml:id="f02-l-feature-1" />
+      <zone type="form-mark" ulx="24" uly="1780" lrx="94" lry="1904" xml:id="f02-l-feature-2" />
+      <zone type="form-mark" ulx="24" uly="2060" lrx="94" lry="2220" xml:id="f02-l-feature-3" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="codex">
+        <pb n="1" facs="#f01" />
+        <div n="1" type="scan" subtype="complete-illustrated-report">
+          <div type="page-face" n="right" xml:lang="lzh">
+            <ab type="column" n="1" xml:id="f01-r-c01">
+              <seg type="diplomatic-text">閩省南臺中洲有美醫設立濟</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f01-r-c02">
+              <seg type="diplomatic-text">世醫局已歷</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f01-r-c03">
+              <seg type="diplomatic-text">多年凡華人之抱恙垂危和緩束</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f01-r-c04">
+              <seg type="diplomatic-text">手者皆得到</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f01-r-c05">
+              <seg type="diplomatic-text">局乞醫著手成春屢著奇效日</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f01-r-c06">
+              <seg type="diplomatic-text">前廚房失慎</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f01-r-c07">
+              <seg type="diplomatic-text">遽兆焚如十萬病魔一齊驚</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f01-r-c08">
+              <seg type="diplomatic-text">退當有數十</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f01-r-c09">
+              <seg type="diplomatic-text">西人冒火沖烟捨命救護先</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f01-r-c10">
+              <seg type="diplomatic-text">將病房中男</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f01-r-c11">
+              <seg type="diplomatic-text">婦老幼□負而逃然後汲水</seg>
+            </ab>
+            <ab type="column" n="12" xml:id="f01-r-c12">
+              <seg type="diplomatic-text">澆灌滅此狂</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f01-r-c13">
+              <seg type="diplomatic-text">燄所有貴重物件悉付祖</seg>
+            </ab>
+            <ab type="column" n="14" xml:id="f01-r-c14">
+              <seg type="diplomatic-text">龍氏最可惜</seg>
+            </ab>
+            <ab type="column" n="15" xml:id="f01-r-c15">
+              <seg type="diplomatic-text">者有一顆微鏡大可</seg>
+            </ab>
+            <ab type="column" n="16" xml:id="f01-r-c16">
+              <seg type="diplomatic-text">數百</seg>
+            </ab>
+            <ab type="column" n="17" xml:id="f01-r-c17">
+              <seg type="diplomatic-text">倍購時出</seg>
+            </ab>
+            <ab type="column" n="18" xml:id="f01-r-c18">
+              <seg type="diplomatic-text">價五</seg>
+            </ab>
+            <ab type="column" n="19" xml:id="f01-r-c19">
+              <seg type="diplomatic-text">百金至此</seg>
+            </ab>
+            <ab type="column" n="20" xml:id="f01-r-c20">
+              <seg type="diplomatic-text">亦遭</seg>
+            </ab>
+            <ab type="column" n="21" xml:id="f01-r-c21">
+              <seg type="diplomatic-text">災刼云</seg>
+            </ab>
+            <ab type="page-feature" subtype="article-title" facs="#f01-r-feature-1">
+              <label>篇題</label>
+              <seg type="diplomatic-text" rend="unknown" xml:lang="lzh">醫局成災</seg>
+            </ab>
+            <ab type="page-feature" subtype="printer-seal" facs="#f01-r-feature-2">
+              <label>文末小印</label>
+              <seg type="diplomatic-text" rend="unknown" />
+            </ab>
+          </div>
+          <div type="page-face" n="left" xml:lang="lzh">
+            <ab type="page-feature" subtype="form-mark" facs="#f01-l-feature-1">
+              <label>原刊圖號</label>
+              <seg type="diplomatic-text" rend="unknown" xml:lang="lzh">七十七</seg>
+            </ab>
+            <ab type="page-feature" subtype="form-mark" facs="#f01-l-feature-2">
+              <label>原刊期碼</label>
+              <seg type="diplomatic-text" rend="unknown" xml:lang="lzh">庚十</seg>
+            </ab>
+            <ab type="page-feature" subtype="inscription" facs="#f01-l-feature-3">
+              <label>圖中醫院門額</label>
+              <seg type="diplomatic-text" rend="unknown" xml:lang="lzh">濟世醫院</seg>
+            </ab>
+            <ab type="page-feature" subtype="artist-signature" facs="#f01-l-feature-4">
+              <label>圖內左緣畫款</label>
+              <seg type="diplomatic-text" rend="unknown" xml:lang="lzh">田氏子琳</seg>
+            </ab>
+            <ab type="page-feature" subtype="artist-seal" facs="#f01-l-feature-5">
+              <label>畫款下方印</label>
+              <seg type="diplomatic-text" rend="unknown" />
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">正文與篇題排在右半，左半圖內有院門額及畫款。庚集總目另題作「醫院成災」。</ab>
+            <ab type="transcription-issue" n="right:11">
+              <quote>婦老幼□負</quote>
+              <seg type="candidate">劍</seg>
+              <seg type="candidate">肩</seg>
+              <note type="editorial">負前一字左若僉、右若刂，原圖讀法未定。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="2" facs="#f02" />
+        <div n="2" type="scan" subtype="complete-illustrated-report">
+          <div type="page-face" n="right" xml:lang="lzh">
+            <ab type="column" n="1" xml:id="f02-r-c01">
+              <seg type="diplomatic-text">都中</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f02-r-c02">
+              <seg type="diplomatic-text">施醫院之西醫</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f02-r-c03">
+              <seg type="diplomatic-text">某</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f02-r-c04">
+              <seg type="diplomatic-text">君初</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f02-r-c05">
+              <seg type="diplomatic-text">次涖華未諳言</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f02-r-c06">
+              <seg type="diplomatic-text">語</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f02-r-c07">
+              <seg type="diplomatic-text">而治</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f02-r-c08">
+              <seg type="diplomatic-text">病給藥必需詳</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f02-r-c09">
+              <seg type="diplomatic-text">詢</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f02-r-c10">
+              <seg type="diplomatic-text">方知</seg>
+            </ab>
+            <ab type="page-feature" subtype="article-title" facs="#f02-r-feature-1">
+              <label>篇題（橫書右起）</label>
+              <seg type="diplomatic-text" rend="unknown" xml:lang="lzh">西醫治病</seg>
+            </ab>
+            <ab type="page-feature" subtype="inscription" facs="#f02-r-feature-2">
+              <label>藥櫃左側懸牌（字母樣筆畫未辨）</label>
+              <seg type="diplomatic-text" rend="unknown" />
+            </ab>
+            <ab type="page-feature" subtype="artist-signature" facs="#f02-r-feature-3">
+              <label>圖內右下畫款</label>
+              <seg type="diplomatic-text" rend="unknown" xml:lang="lzh">馬學□作</seg>
+            </ab>
+            <ab type="page-feature" subtype="artist-seal" facs="#f02-r-feature-4">
+              <label>畫款左下小署記</label>
+              <seg type="diplomatic-text" rend="unknown" />
+            </ab>
+          </div>
+          <div type="page-face" n="left" xml:lang="lzh">
+            <ab type="column" n="1" xml:id="f02-l-c01">
+              <seg type="diplomatic-text">病之原委有西</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f02-l-c02">
+              <seg type="diplomatic-text">女</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f02-l-c03">
+              <seg type="diplomatic-text">某教</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f02-l-c04">
+              <seg type="diplomatic-text">中人亦好善為</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f02-l-c05">
+              <seg type="diplomatic-text">懷</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f02-l-c06">
+              <seg type="diplomatic-text">者願</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f02-l-c07">
+              <seg type="diplomatic-text">代某君喉舌之</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f02-l-c08">
+              <seg type="diplomatic-text">司</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f02-l-c09">
+              <seg type="diplomatic-text">兩相</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f02-l-c10">
+              <seg type="diplomatic-text">得而益彰故赴</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f02-l-c11">
+              <seg type="diplomatic-text">院</seg>
+            </ab>
+            <ab type="column" n="12" xml:id="f02-l-c12">
+              <seg type="diplomatic-text">病人</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f02-l-c13">
+              <seg type="diplomatic-text">日以百計西士</seg>
+            </ab>
+            <ab type="column" n="14" xml:id="f02-l-c14">
+              <seg type="diplomatic-text">女</seg>
+            </ab>
+            <ab type="column" n="15" xml:id="f02-l-c15">
+              <seg type="diplomatic-text">不以</seg>
+            </ab>
+            <ab type="column" n="16" xml:id="f02-l-c16">
+              <seg type="diplomatic-text">煩冗為苦殊足多</seg>
+            </ab>
+            <ab type="column" n="17" xml:id="f02-l-c17">
+              <seg type="diplomatic-text">矣</seg>
+            </ab>
+            <ab type="page-feature" subtype="printer-seal" facs="#f02-l-feature-1">
+              <label>文末方印</label>
+              <seg type="diplomatic-text" rend="unknown" />
+            </ab>
+            <ab type="page-feature" subtype="form-mark" facs="#f02-l-feature-2">
+              <label>原刊圖號</label>
+              <seg type="diplomatic-text" rend="unknown" xml:lang="lzh">八十五</seg>
+            </ab>
+            <ab type="page-feature" subtype="form-mark" facs="#f02-l-feature-3">
+              <label>原刊期碼</label>
+              <seg type="diplomatic-text" rend="unknown" xml:lang="lzh">庚十一</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">篇題橫排，自右往左讀。正文從右半讀至左半。左側版記、畫款及懸牌另標。</ab>
+            <ab type="transcription-issue" n="right:">
+              <quote>馬學□作</quote>
+              <seg type="candidate">乃</seg>
+              <note type="editorial">畫款第三字筆畫連帶，未能確定。</note>
+            </ab>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

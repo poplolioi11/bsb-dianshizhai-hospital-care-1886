@@ -1,0 +1,522 @@
+{
+  "metadata": {
+    "title": "《點石齋畫報》西醫院照護二則",
+    "roman_title": "Dian shi zhai hua bao: Yi ju cheng zai and Xi yi zhi bing",
+    "author": "《點石齋畫報》編刊者（報導未見可確讀的正文署名）",
+    "date": "光緒十二年（1886），庚十及庚十一；原圖未載月日",
+    "location": "München",
+    "repository": "巴伐利亞邦立圖書館（Bayerische Staatsbibliothek）",
+    "collection": "點石齋畫報，第 1 函",
+    "shelfmark": "L.sin. K 175-1/10",
+    "catalogue": "https://opacplus.bsb-muenchen.de/title/BV040390393",
+    "language": "lzh",
+    "description": "《點石齋畫報》庚集刊於 1886 年。〈醫局成災〉記述福州南臺中洲濟世醫院失火時，院方從病房撤出男女老幼。〈西醫治病〉描繪題作「都中施醫院」的診間與候診人群，報導西醫問診時由一名西方女性協助傳譯。兩則可用於晚清醫療史、就醫圖像與醫病溝通研究。",
+    "description_en": "Two reports in the 1886 Dianshizhai Pictorial depict hospital care in the late Qing. Yi ju cheng zai describes the evacuation of patients from Jishi Hospital in Nantai, Fuzhou, during a fire. Xi yi zhi bing depicts a waiting room and a Western woman interpreting for a physician at the Shi yi yuan, described in the report as being in the capital. The reports document how the illustrated press depicted hospital care, patient access and communication across languages.",
+    "txt_reader_statement": "每篇題名、刊號、圖中字樣、畫款與印記分列。各面正文由右至左。文末附可連讀文字。□ 表示未定字。",
+    "tei_editorial_statement": "逐幅依序錄入兩篇完整圖說，用面、欄及影像區域保存篇題、圖中文字、畫款和印記的來源位置。連讀文本依原欄序串接，未添加標點。",
+    "date_evidence": "https://www.hkopenpage.com/pdf/9789888694587.pdf#page=36",
+    "record_id": "BSB00075644F708",
+    "edition": "0.1.0",
+    "manifest_url": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/manifest",
+    "image_provider": "Bayerische Staatsbibliothek",
+    "original_publication_year": 1886,
+    "original_publication_place": "上海",
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "version": "0.1.0",
+    "dataset_title": "《點石齋畫報》西醫院照護二則（1886 年，巴伐利亞邦立圖書館 bsb00075644，第700、708幅） / Dian shi zhai hua bao [Two Reports on Hospital Care]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "catalogue_frame": 700,
+      "printed_issue": "庚十",
+      "printed_plate": "七十七",
+      "article_title": "醫局成災",
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/700",
+      "label": {
+        "none": [
+          "庚十・七十七・醫局成災"
+        ]
+      },
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v3/bsb00075644_00700/full/2400,/0/default.jpg",
+      "sha256": "d1aba5e3ba2b53e7b64d555345a1625ce55b70c97333a1e8c17515638aa4f2a0",
+      "bytes": 1527581,
+      "native_width": 2400,
+      "native_height": 2384,
+      "source_service_width": 4097,
+      "source_service_height": 4071,
+      "content_role": "complete-illustrated-report",
+      "observations": "正文與篇題排在右半，左半圖內有院門額及畫款。庚集總目另題作「醫院成災」。",
+      "state": "transcribed",
+      "sides": [
+        {
+          "side": "right",
+          "main_language": "lzh",
+          "columns": [
+            {
+              "text": "閩省南臺中洲有美醫設立濟"
+            },
+            {
+              "text": "世醫局已歷"
+            },
+            {
+              "text": "多年凡華人之抱恙垂危和緩束"
+            },
+            {
+              "text": "手者皆得到"
+            },
+            {
+              "text": "局乞醫著手成春屢著奇效日"
+            },
+            {
+              "text": "前廚房失慎"
+            },
+            {
+              "text": "遽兆焚如十萬病魔一齊驚"
+            },
+            {
+              "text": "退當有數十"
+            },
+            {
+              "text": "西人冒火沖烟捨命救護先"
+            },
+            {
+              "text": "將病房中男"
+            },
+            {
+              "text": "婦老幼□負而逃然後汲水"
+            },
+            {
+              "text": "澆灌滅此狂"
+            },
+            {
+              "text": "燄所有貴重物件悉付祖"
+            },
+            {
+              "text": "龍氏最可惜"
+            },
+            {
+              "text": "者有一顆微鏡大可"
+            },
+            {
+              "text": "數百"
+            },
+            {
+              "text": "倍購時出"
+            },
+            {
+              "text": "價五"
+            },
+            {
+              "text": "百金至此"
+            },
+            {
+              "text": "亦遭"
+            },
+            {
+              "text": "災刼云"
+            }
+          ],
+          "extras": [
+            {
+              "type": "article-title",
+              "location": "篇題",
+              "text": "醫局成災",
+              "figure_zone": "f01-r-feature-1",
+              "language": "lzh"
+            },
+            {
+              "type": "printer-seal",
+              "location": "文末小印",
+              "text": "",
+              "figure_zone": "f01-r-feature-2"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "main_language": "lzh",
+          "columns": [],
+          "extras": [
+            {
+              "type": "form-mark",
+              "location": "原刊圖號",
+              "text": "七十七",
+              "figure_zone": "f01-l-feature-1",
+              "language": "lzh"
+            },
+            {
+              "type": "form-mark",
+              "location": "原刊期碼",
+              "text": "庚十",
+              "figure_zone": "f01-l-feature-2",
+              "language": "lzh"
+            },
+            {
+              "type": "inscription",
+              "location": "圖中醫院門額",
+              "text": "濟世醫院",
+              "figure_zone": "f01-l-feature-3",
+              "language": "lzh"
+            },
+            {
+              "type": "artist-signature",
+              "location": "圖內左緣畫款",
+              "text": "田氏子琳",
+              "figure_zone": "f01-l-feature-4",
+              "language": "lzh"
+            },
+            {
+              "type": "artist-seal",
+              "location": "畫款下方印",
+              "text": "",
+              "figure_zone": "f01-l-feature-5"
+            }
+          ]
+        }
+      ],
+      "facsimile_regions": [
+        {
+          "id": "f01-r-feature-1",
+          "type": "article-title",
+          "bbox": [
+            2180,
+            490,
+            2280,
+            855
+          ]
+        },
+        {
+          "id": "f01-r-feature-2",
+          "type": "printer-seal",
+          "bbox": [
+            1258,
+            523,
+            1310,
+            609
+          ]
+        },
+        {
+          "id": "f01-l-feature-1",
+          "type": "form-mark",
+          "bbox": [
+            34,
+            1803,
+            99,
+            1903
+          ]
+        },
+        {
+          "id": "f01-l-feature-2",
+          "type": "form-mark",
+          "bbox": [
+            34,
+            2078,
+            99,
+            2208
+          ]
+        },
+        {
+          "id": "f01-l-feature-3",
+          "type": "inscription",
+          "bbox": [
+            402,
+            898,
+            669,
+            976
+          ]
+        },
+        {
+          "id": "f01-l-feature-4",
+          "type": "artist-signature",
+          "bbox": [
+            105,
+            2043,
+            163,
+            2160
+          ]
+        },
+        {
+          "id": "f01-l-feature-5",
+          "type": "artist-seal",
+          "bbox": [
+            101,
+            2150,
+            178,
+            2210
+          ]
+        }
+      ],
+      "printed_article_title": "醫局成災",
+      "issues": [
+        {
+          "side": "right",
+          "column": 11,
+          "context": "婦老幼□負",
+          "candidates": [
+            "劍",
+            "肩"
+          ],
+          "note": "負前一字左若僉、右若刂，原圖讀法未定。"
+        }
+      ]
+    },
+    {
+      "image": 2,
+      "catalogue_frame": 708,
+      "printed_issue": "庚十一",
+      "printed_plate": "八十五",
+      "article_title": "西醫治病",
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/708",
+      "label": {
+        "none": [
+          "庚十一・八十五・西醫治病"
+        ]
+      },
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v3/bsb00075644_00708/full/2400,/0/default.jpg",
+      "sha256": "9c411cd503643dc914a2f71f16cb7837fe94274cb6310d8198a0c0d8a0cadc5b",
+      "bytes": 1332153,
+      "native_width": 2400,
+      "native_height": 2380,
+      "source_service_width": 4105,
+      "source_service_height": 4071,
+      "content_role": "complete-illustrated-report",
+      "observations": "篇題橫排，自右往左讀。正文從右半讀至左半。左側版記、畫款及懸牌另標。",
+      "state": "transcribed",
+      "sides": [
+        {
+          "side": "right",
+          "main_language": "lzh",
+          "columns": [
+            {
+              "text": "都中"
+            },
+            {
+              "text": "施醫院之西醫"
+            },
+            {
+              "text": "某"
+            },
+            {
+              "text": "君初"
+            },
+            {
+              "text": "次涖華未諳言"
+            },
+            {
+              "text": "語"
+            },
+            {
+              "text": "而治"
+            },
+            {
+              "text": "病給藥必需詳"
+            },
+            {
+              "text": "詢"
+            },
+            {
+              "text": "方知"
+            }
+          ],
+          "extras": [
+            {
+              "type": "article-title",
+              "location": "篇題（橫書右起）",
+              "text": "西醫治病",
+              "figure_zone": "f02-r-feature-1",
+              "language": "lzh"
+            },
+            {
+              "type": "inscription",
+              "location": "藥櫃左側懸牌（字母樣筆畫未辨）",
+              "text": "",
+              "figure_zone": "f02-r-feature-2"
+            },
+            {
+              "type": "artist-signature",
+              "location": "圖內右下畫款",
+              "text": "馬學□作",
+              "figure_zone": "f02-r-feature-3",
+              "language": "lzh"
+            },
+            {
+              "type": "artist-seal",
+              "location": "畫款左下小署記",
+              "text": "",
+              "figure_zone": "f02-r-feature-4"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "main_language": "lzh",
+          "columns": [
+            {
+              "text": "病之原委有西"
+            },
+            {
+              "text": "女"
+            },
+            {
+              "text": "某教"
+            },
+            {
+              "text": "中人亦好善為"
+            },
+            {
+              "text": "懷"
+            },
+            {
+              "text": "者願"
+            },
+            {
+              "text": "代某君喉舌之"
+            },
+            {
+              "text": "司"
+            },
+            {
+              "text": "兩相"
+            },
+            {
+              "text": "得而益彰故赴"
+            },
+            {
+              "text": "院"
+            },
+            {
+              "text": "病人"
+            },
+            {
+              "text": "日以百計西士"
+            },
+            {
+              "text": "女"
+            },
+            {
+              "text": "不以"
+            },
+            {
+              "text": "煩冗為苦殊足多"
+            },
+            {
+              "text": "矣"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printer-seal",
+              "location": "文末方印",
+              "text": "",
+              "figure_zone": "f02-l-feature-1"
+            },
+            {
+              "type": "form-mark",
+              "location": "原刊圖號",
+              "text": "八十五",
+              "figure_zone": "f02-l-feature-2",
+              "language": "lzh"
+            },
+            {
+              "type": "form-mark",
+              "location": "原刊期碼",
+              "text": "庚十一",
+              "figure_zone": "f02-l-feature-3",
+              "language": "lzh"
+            }
+          ]
+        }
+      ],
+      "facsimile_regions": [
+        {
+          "id": "f02-r-feature-1",
+          "type": "article-title",
+          "bbox": [
+            1737,
+            535,
+            2191,
+            623
+          ]
+        },
+        {
+          "id": "f02-r-feature-2",
+          "type": "inscription",
+          "bbox": [
+            1600,
+            1048,
+            1783,
+            1210
+          ]
+        },
+        {
+          "id": "f02-r-feature-3",
+          "type": "artist-signature",
+          "bbox": [
+            2248,
+            2088,
+            2304,
+            2220
+          ]
+        },
+        {
+          "id": "f02-r-feature-4",
+          "type": "artist-seal",
+          "bbox": [
+            2191,
+            2162,
+            2258,
+            2211
+          ]
+        },
+        {
+          "id": "f02-l-feature-1",
+          "type": "printer-seal",
+          "bbox": [
+            386,
+            578,
+            450,
+            640
+          ]
+        },
+        {
+          "id": "f02-l-feature-2",
+          "type": "form-mark",
+          "bbox": [
+            24,
+            1780,
+            94,
+            1904
+          ]
+        },
+        {
+          "id": "f02-l-feature-3",
+          "type": "form-mark",
+          "bbox": [
+            24,
+            2060,
+            94,
+            2220
+          ]
+        }
+      ],
+      "printed_article_title": "西醫治病",
+      "issues": [
+        {
+          "side": "right",
+          "region": "artist-signature",
+          "context": "馬學□作",
+          "candidates": [
+            "乃"
+          ],
+          "note": "畫款第三字筆畫連帶，未能確定。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "historical_author": "《點石齋畫報》編刊者（報導未見可確讀的正文署名）",
+  "source_identity": "Bayerische Staatsbibliothek L.sin. K 175-1/10, bsb00075644, scans 700 and 708",
+  "source": "https://opacplus.bsb-muenchen.de/title/BV040390393",
+  "iiif_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/manifest",
+  "source_rights_policy": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "dataset_version": "0.1.0",
+  "scan_count": 2,
+  "content_scan_count": 2,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/700",
+      "label": {
+        "none": [
+          "庚十・七十七・醫局成災"
+        ]
+      },
+      "sha256": "d1aba5e3ba2b53e7b64d555345a1625ce55b70c97333a1e8c17515638aa4f2a0",
+      "content_role": "complete-illustrated-report"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/708",
+      "label": {
+        "none": [
+          "庚十一・八十五・西醫治病"
+        ]
+      },
+      "sha256": "9c411cd503643dc914a2f71f16cb7837fe94274cb6310d8198a0c0d8a0cadc5b",
+      "content_role": "complete-illustrated-report"
+    }
+  ]
+}
